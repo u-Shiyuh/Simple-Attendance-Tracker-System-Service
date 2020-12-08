@@ -1,4 +1,4 @@
-# SkillCheck - lorenzo.g.c.oceo
+# SkillCheck - king.matthew.ochoa
 
 skillcheck for spring boot data rest and jpa
 
