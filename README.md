@@ -1,4 +1,4 @@
-# SkillCheck - king.matthew.ochoa
+# Spring Boot Application - king.matthew.ochoa
 
 skillcheck for spring boot data rest and jpa
 
